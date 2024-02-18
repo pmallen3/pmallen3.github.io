@@ -8,3 +8,6 @@ A created Github account made for assignment for class.
 I cloned a repository in Github.
 4. A brief description of the steps you took to clone the repository onto your local machine
 I had to download Github Desktop in order to create the clone.
+
+
+
